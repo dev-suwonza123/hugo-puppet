@@ -12,10 +12,11 @@ series = ["Themes Guide"]
 
 <!--more-->
 
-## Install Hugo
+## FULLSLOTPG
 
-Make sure you have installed the latest version of [Hugo-extented](https://gohugo.io/getting-started/installing/).
-
+fullslotpg แจกเครดิตฟรี สมาชิกใหม่ 50 เครดิต  
+พิเศษ สายฟาร์ม เก็บเพชร หมุนวงล้อได้ฟรีทุกวัน  
+ [สมัคร](https://game.fullslotpg.com/register?token=uDRo5gWYMTJPY46Q)
 ## Create a New Site
 
 ```
