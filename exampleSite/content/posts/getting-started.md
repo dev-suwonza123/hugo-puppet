@@ -17,7 +17,7 @@ series = ["Themes Guide"]
 
 fullslotpg แจกเครดิตฟรี สมาชิกใหม่ 50 เครดิต  
 พิเศษ สายฟาร์ม เก็บเพชร หมุนวงล้อได้ฟรีทุกวัน  
- [สมัคร](https://game.fullslotpg.com/register?token=uDRo5gWYMTJPY46Q)  
+  
 
 ```
 โค้ดฟรี 50: AFWT-Y74W-8CN0  
@@ -31,7 +31,7 @@ fullslotpg แจกเครดิตฟรี สมาชิกใหม่ 5
 💎 XKX7-3MKW-JMBK
 
 ```
-
+ ### [สมัคร](https://game.fullslotpg.com/register?token=uDRo5gWYMTJPY46Q)
 ## Add the Theme
 
 You can download and unpack the theme manually from Github or use git to clone the theme into your site's `themes` directory.
