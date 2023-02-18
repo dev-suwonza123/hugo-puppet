@@ -13,14 +13,16 @@ series = ["Themes Guide"]
 <!--more-->
 
 ## FULLSLOTPG
-![img](https://fullslotpg.com/wp-content/uploads/2022/12/fullslotpg-เครดิตฟรี-1-1.jpg)
+![img](https://fullslotpg.com/wp-content/uploads/2022/12/fullslotpg-เครดิตฟรี-1-1.jpg)  
+
 fullslotpg แจกเครดิตฟรี สมาชิกใหม่ 50 เครดิต  
 พิเศษ สายฟาร์ม เก็บเพชร หมุนวงล้อได้ฟรีทุกวัน  
- [สมัคร](https://game.fullslotpg.com/register?token=uDRo5gWYMTJPY46Q)
-## Create a New Site
+ [สมัคร](https://game.fullslotpg.com/register?token=uDRo5gWYMTJPY46Q)  
+
+> โค้ดฟรี 50 : AFWT-Y74W-8CN0 
 
 ```
-hugo new site mysite
+โค้ด: AFWT-Y74W-8CN0
 ```
 
 ## Add the Theme
