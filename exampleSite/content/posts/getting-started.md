@@ -8,7 +8,7 @@ categories = []
 series = ["Themes Guide"]
 +++
 
-Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io). 
+รวมเว็บเครดิตฟรีล่าสุด ไม่ต้องทำกิจกรรม พร้อมโค้ดลับทั้งหมด
 
 <!--more-->
 
